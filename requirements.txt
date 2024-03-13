@@ -1,6 +1,7 @@
 pandas
-sklearn
+scikit-learn
 torchvision
 numpy
 matplotlib
 torch
+seaborn
